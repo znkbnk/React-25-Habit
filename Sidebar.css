@@ -25,6 +25,7 @@ ul {
   margin: 0; /* Remove default margin */
   padding: 0; /* Remove default padding */
 }
+
 .navbar  {
   display: flex;
   flex-direction: row;
